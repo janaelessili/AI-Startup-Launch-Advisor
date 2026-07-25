@@ -1,0 +1,10 @@
+streamlit
+tavily-python
+torch
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+langchain
+langchain-core
+langchain-classic
