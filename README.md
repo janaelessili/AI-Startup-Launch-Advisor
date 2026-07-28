@@ -226,19 +226,6 @@ The project uses LangChain `StructuredOutputParser` to generate a clean JSON out
 
 ---
 
-# 📸 Demo
-
-Add screenshots, GIFs, or a demo video here.
-
-Example:
-
-```md
-![App Screenshot](screenshots/app_home.png)
-![Evaluation Results](screenshots/results.png)
-```
-
----
-
 # 📈 Results
 
 The system successfully generates a structured startup evaluation report based on:
